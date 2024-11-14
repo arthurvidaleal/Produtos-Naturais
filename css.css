@@ -1,0 +1,53 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: linear-gradient(to bottom, wheat, #ffffe8); 
+    height: 100vh; 
+    
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    color: white;
+    
+}
+
+.infinito{
+    margin: -11px;
+    background-color: wheat;
+    border: 0;
+  }
+
+  .txt{
+    color: black;
+  }
+
+  .divv{
+    margin: 1px 630px;
+  }
+
+  .fild1{
+    border-radius: 20px;
+    background-color: rgb(173, 182, 255);
+    border: 0;
+  }
+
+  .imagem{
+    border-radius: 15px;
+    height: 400px;
+  }
+
+  .divvv{
+    margin: 1px 735px;
+  }
+
+  button{
+    border-radius: 15px;
+    border: 0;
+    background-color:rgb(255, 255, 255);
+    width: 80px;
+    height: 30px;
+  }
+
+  a{
+    text-decoration: none;
+    color: black;
+  }
